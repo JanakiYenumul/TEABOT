@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <Validations>
-<Validation name="Test Validation">
+<Validation name="Knockout Validation">
 <Message>Unable to provide Location.</Message>
-<ErrorCode>1111</ErrorCode>
+<ErrorCode>2222</ErrorCode>
 <Expression>
 <Method>Or</Method>
 <Expression>
